@@ -3,16 +3,12 @@
 <head>
 	<title>Bilingual version</title>
 	<style>
-		.column {
-			float: left;
-			width: 50%;
-  box-sizing: border-box;
-			padding: 10px;
-  display: flex;
-			flex-direction: column;
-			align-items: flex-start;
+		.row {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			gap: 10px;
 		}
-		.column p {
+		.row p {
 			margin-top: 0;
 		}
 		
