@@ -1,14 +1,11 @@
 /* CSS Style Sheet */
 
-* {
-  margin-left: 10px;
-}
-
 body {
   font-family: 'Open Sans', sans-serif;
   color: #333333;
   background-color: #f2f2f2;
   font-size: 20px
+  margin-left: 10px;
 }
 
 h1 {
