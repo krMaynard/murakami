@@ -1,5 +1,13 @@
 /* CSS Style Sheet */
 
+* {
+  margin: 10px;
+}
+
+a {
+  margin: 0;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   color: #333333;
@@ -13,13 +21,8 @@ h1 {
   text-align: left;
   margin-top: 50px;
   margin-bottom: 30px;
-  margin-left: 10px;
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
-  color: #333333;
-  background-color: #f2f2f2; 
   margin-bottom: 1em;
-  margin-left: 10px;
 }
